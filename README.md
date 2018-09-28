@@ -1,5 +1,5 @@
 # Introduction to deep learning
-Introduction to Deep Learning with theory and full coding examples.
+Introduction to Deep Learning, basic theory and full coding examples.
 ### Part 1 - Linear Perceptron
 * Inspiration - The Biological Neuron Model
 * Perceptron - An Artificial Neural Network
