@@ -9,6 +9,7 @@ The coded example single linear neuron or perceptron, learning the logic OR and 
 * Learning - the Bias and weights
 * Perpetron Example - Logic OR
 ### Part 2 - Non Linear Perceptron
+How ro extendlearning,with deepnetworks and non linear activation functions.
 * Why deep learning ?
 * Non Linear Activation function
 * Handwritten Digit Classification (Mnist )
