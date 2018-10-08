@@ -1,6 +1,8 @@
 # Introduction to deep learning
 Introduction to Deep Learning, basic theory and full coding examples.
-### Part 1 - Linear Perceptron
+### Part 1 - Linear perceptron and the concept of learning
+Discussion is on the structure of a neuron and the algorithmical concept concept behind learning.
+The coded example single linear neuron or perceptron, learning the logic OR and AND Gates.
 * Inspiration - The Biological Neuron Model
 * Perceptron - An Artificial Neural Network
 * Decision Units - Activation functions
