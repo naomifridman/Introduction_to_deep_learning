@@ -14,12 +14,14 @@ How ro extendlearning,with deepnetworks and non linear activation functions.
 * Non Linear Activation function
 * Handwritten Digit Classification (Mnist )
 ### Part 3 - Multiple Layer Neural Networks
+Delta rule for learning, Gradient Decent and backpropogation¶
 * How to train Multiple Layer Neural Networks
 * Gradient Decent - Minimize loss function iterativly
 * Delta rule for learning
 * Backpropagation
 * Train ,predict and evaluate MLP for Logic OR - example
 ### Part 4 - Keras Mnist example
+Build and visualize Simple feed forward dense network with Mnist data
 * Load and normalize data set
 * Create the model
 * Train the model
