@@ -27,3 +27,8 @@ Build and visualize Simple feed forward dense network with Mnist data
 * Train the model
 * Evaluate Model
 * Predict
+### Part 5 - Convolution Neural Network
+What is convolution network ?
+* Intuition and examples
+* Basic terms and building blocks of CNN
+* Keras CNN to classify Mnist data
