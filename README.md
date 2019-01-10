@@ -32,3 +32,6 @@ What is convolution network ?
 * Intuition and examples
 * Basic terms and building blocks of CNN
 * Keras CNN to classify Mnist data
+
+### utils_plot.py
+Few simple python ploting functions
