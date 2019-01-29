@@ -48,7 +48,7 @@ uplot.drow_binary_threshold()
 ```
 
 
-![png](output_6_0.png)
+![png](https://raw.githubusercontent.com/naomifridman/Introduction_to_deep_learning/master/imgs/output_6_0.png)
 
 
 ## Learning the Bias
