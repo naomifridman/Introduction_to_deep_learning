@@ -205,7 +205,7 @@ print('Learned Weights:', w)
     
 
 
-![png](output_16_1.png)
+![png](https://raw.githubusercontent.com/naomifridman/Introduction_to_deep_learning/master/imgs/output_16_1.png)
 
 
 ### Predict OR with The learned weights of the Perceptron
@@ -281,7 +281,7 @@ print('Learned Weights:', w)
     
 
 
-![png](output_20_1.png)
+![png](https://raw.githubusercontent.com/naomifridman/Introduction_to_deep_learning/master/imgs/output_20_1.png)
 
 
 ### Predict AND with The learned weights of the Perceptron
