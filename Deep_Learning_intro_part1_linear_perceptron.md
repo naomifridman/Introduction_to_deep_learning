@@ -1,7 +1,9 @@
 
 # Introduction to Deep Learning
 ## Part 1 - Linear perceptron and the concept of learning
-
+\def\TeX{\mbox{T\kern-.14em\lower.5ex\hbox{E}\kern-.115em X}}
+\def\LaTeX{\mbox{L\kern-.325em\raise.21em\hbox{$\scriptstyle{A}$}\kern-.17em}\TeX}
+    
 Discussion is on the structure of a neuron and the algorithmic concept concept behind learning.
 The coded example single linear neuron or perceptron, learning the logic OR and AND Gates.
 
