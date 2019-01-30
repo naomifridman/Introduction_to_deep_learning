@@ -19,7 +19,7 @@ Delta rule for learning, Gradient Decent and backpropogation¶
 * Gradient Decent - Minimize loss function iterativly
 * Delta rule for learning
 * Backpropagation
-* Train ,predict and evaluate MLP for Logic OR - example
+* Train and predict MLP for Logic OR - example
 ### Part 4 - Keras Mnist example
 Build and visualize Simple feed forward dense network with Mnist data
 * Load and normalize data set
