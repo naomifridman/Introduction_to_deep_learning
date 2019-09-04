@@ -7,16 +7,16 @@ The coded example single linear neuron or perceptron, learning the logic OR and 
 * Perceptron - An Artificial Neural Network
 * Decision Units - Activation functions
 * Learning - the Bias and weights
-* Perpetron Example - Logic OR
+* Perceptron Example - Logic OR
 ### Part 2 - Non Linear Perceptron
-How ro extendlearning,with deepnetworks and non linear activation functions.
+How to extend learning,with deep networks and non linear activation functions.
 * Why deep learning ?
 * Non Linear Activation function
 * Handwritten Digit Classification (Mnist )
 ### Part 3 - Multiple Layer Neural Networks
-Delta rule for learning, Gradient Decent and backpropogation¶
+Delta rule for learning, Gradient Descent and backpropagation
 * How to train Multiple Layer Neural Networks
-* Gradient Decent - Minimize loss function iterativly
+* Gradient Decent - Minimize loss function iteratively
 * Delta rule for learning
 * Backpropagation
 * Train and predict MLP for Logic OR - example
@@ -34,4 +34,4 @@ What is convolution network ?
 * Keras CNN to classify Mnist data
 
 ### utils_plot.py
-Few simple python ploting functions
+Few simple python plotting functions
